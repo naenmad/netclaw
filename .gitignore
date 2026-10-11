@@ -1,0 +1,14 @@
+# Xcode and SwiftPM
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+
+# App bundle build output
+Netclaw.app/
+
+# macOS system files
+.DS_Store
+*.swp
+*~
